@@ -22,31 +22,31 @@ This is the frontend for dentist appointment booking system which allows users t
 
 |                  Mapview                   |                    Mapview dark                    |
 | :----------------------------------------: | :------------------------------------------------: |
-| ![image](/src/assets/mapviewscrenshot.png) | ![image](/src/assets/mapviewdarkmodescreenhot.png) |
+| ![image](./src/assets/mapviewscrenshot.png) | ![image](./src/assets/mapviewdarkmodescreenhot.png) |
 
 |              Dashboard              |             Dashboard dark              |
 | :---------------------------------: | :-------------------------------------: |
-| ![image](/src/assets/dashboard.png) | ![image](/src/assets/dashboarddark.png) |
+| ![image](./src/assets/dashboard.png) | ![image](./src/assets/dashboarddark.png) |
 
 |             Edit account              |             Edit account dark             |
 | :-----------------------------------: | :---------------------------------------: |
-| ![image](/src/assets/editaccount.png) | ![image](/src/assets/editaccountdark.png) |
+| ![image](./src/assets/editaccount.png) | ![image](./src/assets/editaccountdark.png) |
 
 |       Cancel notification from dentist       |  Cancel notification from dentist dark   |
 | :------------------------------------------: | :--------------------------------------: |
-| ![image](/src/assets/reltimecancellight.png) | ![image](/src/assets/realtimeCancel.png) |
+| ![image](./src/assets/reltimecancellight.png) | ![image](./src/assets/realtimeCancel.png) |
 
 |             Confirm booking              |            Confirm booking dark            |
 | :--------------------------------------: | :----------------------------------------: |
-| ![image](/src/assets/confirm%20page.png) | ![image](/src/assets/confirmpagelight.png) |
+| ![image](./src/assets/confirm%20page.png) | ![image](./src/assets/confirmpagelight.png) |
 
 |            Sign in             |             Sign in dark             |
 | :----------------------------: | :----------------------------------: |
-| ![image](/src/assets/auth.png) | ![image](/src/assets/signindark.png) |
+| ![image](./src/assets/auth.png) | ![image](./src/assets/signindark.png) |
 
 |             Sign up              |                  Sign up dark                  |
 | :------------------------------: | :--------------------------------------------: |
-| ![image](/src/assets/signup.png) | ![image](/src/assets/auth%20signup%20dark.png) |
+| ![image](./src/assets/signup.png) | ![image](./src/assets/auth%20signup%20dark.png) |
 
 ### Installation guide
 
