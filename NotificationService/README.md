@@ -18,4 +18,4 @@ Make sure to run the command npm i to install all the required dependencies
 
 Once an appointment is booked, the user will receive a notification in their gmails with relevant information about the their booking such as the name of the patient, the start and end time of the appointment, the date and a link to the contact support
 
-![image](/src/assets/confirmation.png)
+![image](./src/assets/confirmation.png)
