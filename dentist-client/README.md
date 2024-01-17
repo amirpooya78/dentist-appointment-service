@@ -10,15 +10,15 @@ This serves as the user interface for a dental appointment booking system. Admin
 
 |             Dentist login              |              Admin login             |
 | :------------------------------------: | :----------------------------------: |
-| ![image](/src/assets/dentistLogin.png) | ![image](/src/assets/adminLogin.png) |
+| ![image](./src/assets/dentistLogin.png) | ![image](./src/assets/adminLogin.png) |
 
 |             Apponintment Page             |             Clinic page              |
 | :---------------------------------------: | :----------------------------------: |
-| ![image](/src/assets/appointmentPage.png) | ![image](/src/assets/clinicPage.png) |
+| ![image](./src/assets/appointmentPage.png) | ![image](./src/assets/clinicPage.png) |
 
 |             Create apponintment             |               Add dentist               |
 | :-----------------------------------------: | :-------------------------------------: |
-| ![image](/src/assets/createAppointment.png) | ![image](/src/assets/createDentist.png) |
+| ![image](./src/assets/createAppointment.png) | ![image](./src/assets/createDentist.png) |
 
 
 
